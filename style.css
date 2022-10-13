@@ -49,7 +49,8 @@ body{
 .header-container{
     width: 100%;
     height: 35rem;
-    background-image: linear-gradient(to bottom,rgb(35 79 85 / 91%),rgb(2 5 5 / 29%)) ,url(img/background-image.jpg);
+    background-image: linear-gradient(to bottom,rgb(35 79 85 / 83%),rgb(0 0 0 / 44%)) ,url(img/background-image.jpg);
+    /* background-image: linear-gradient(to bottom,rgb(35 79 85 / 91%),rgb(2 5 5 / 29%)) ,url(img/background-image.jpg); */
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
